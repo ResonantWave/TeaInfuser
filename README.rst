@@ -1,7 +1,7 @@
 ==========
 TeaInfuser
 ==========
-Raspberry Pi based automatic tea infuser, controlled with an android app.
+Raspberry Pi based automatic tea infuser, controlled with an android app. Demonstration `here`_.
 
 Installation and usage
 ======================
@@ -30,6 +30,7 @@ Contributing
 * Please use `GitHub issues`_ to submit bugs and report issues
 * Feel free to contribute to the code
 
+.. _here: https://twitter.com/NiXijav/status/688459899714580484
 .. _tea.py: tea.py
 .. _TeaPreparer: TeaPreparer
 .. _Main.java: TeaPreparer/app/src/main/java/com/ionicbyte/teapreparer/Main.java
